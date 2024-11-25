@@ -1,0 +1,73 @@
+[
+    {
+      "username": "investor123",
+      "email": "investor123@example.com",
+      "password": "hashedpassword1",
+      "name": "John Doe",
+      "phoneNumber": "123-456-7890",
+      "investmentInterests": ["Technology", "Healthcare", "Real Estate"],
+      "pastInvestments": ["Startup A", "Startup B"],
+      "network": ["contact1@example.com", "contact2@example.com"],
+      "pitchers": ["pitcher1@example.com", "pitcher2@example.com"],
+      "otp": "123456",
+      "connectionRequests": ["60c72b2f9b1d4c3b4c8a4567", "60c72b2f9b1d4c3b4c8a4568"],
+      "friends": ["60c72b2f9b1d4c3b4c8a4569", "60c72b2f9b1d4c3b4c8a4570"]
+    },
+    {
+      "username": "venturecapitalist",
+      "email": "vc@example.com",
+      "password": "hashedpassword2",
+      "name": "Jane Smith",
+      "phoneNumber": "987-654-3210",
+      "investmentInterests": ["Biotech", "Fintech"],
+      "pastInvestments": ["Company X", "Company Y", "Company Z"],
+      "network": ["contact3@example.com", "contact4@example.com"],
+      "pitchers": ["pitcher3@example.com", "pitcher4@example.com"],
+      "otp": "654321",
+      "connectionRequests": ["60c72b2f9b1d4c3b4c8a4571", "60c72b2f9b1d4c3b4c8a4572"],
+      "friends": ["60c72b2f9b1d4c3b4c8a4573", "60c72b2f9b1d4c3b4c8a4574"]
+    },
+    {
+      "username": "angelinvestor",
+      "email": "angel@example.com",
+      "password": "hashedpassword3",
+      "name": "Alice Johnson",
+      "phoneNumber": "555-555-5555",
+      "investmentInterests": ["E-commerce", "AI", "Robotics"],
+      "pastInvestments": ["Startup C", "Startup D"],
+      "network": ["contact5@example.com", "contact6@example.com"],
+      "pitchers": ["pitcher5@example.com", "pitcher6@example.com"],
+      "otp": "112233",
+      "connectionRequests": ["60c72b2f9b1d4c3b4c8a4575", "60c72b2f9b1d4c3b4c8a4576"],
+      "friends": ["60c72b2f9b1d4c3b4c8a4577", "60c72b2f9b1d4c3b4c8a4578"]
+    },
+    {
+      "username": "earlystagevc",
+      "email": "earlyvc@example.com",
+      "password": "hashedpassword4",
+      "name": "Bob Williams",
+      "phoneNumber": "444-444-4444",
+      "investmentInterests": ["Clean Energy", "Blockchain"],
+      "pastInvestments": ["Startup E", "Startup F", "Startup G"],
+      "network": ["contact7@example.com", "contact8@example.com"],
+      "pitchers": ["pitcher7@example.com", "pitcher8@example.com"],
+      "otp": "445566",
+      "connectionRequests": ["60c72b2f9b1d4c3b4c8a4579", "60c72b2f9b1d4c3b4c8a4580"],
+      "friends": ["60c72b2f9b1d4c3b4c8a4581", "60c72b2f9b1d4c3b4c8a4582"]
+    },
+    {
+      "username": "corporateinvestor",
+      "email": "corp@example.com",
+      "password": "hashedpassword5",
+      "name": "Charlie Brown",
+      "phoneNumber": "333-333-3333",
+      "investmentInterests": ["SaaS", "Edtech", "Medtech"],
+      "pastInvestments": ["Company H", "Company I"],
+      "network": ["contact9@example.com", "contact10@example.com"],
+      "pitchers": ["pitcher9@example.com", "pitcher10@example.com"],
+      "otp": "778899",
+      "connectionRequests": ["60c72b2f9b1d4c3b4c8a4583", "60c72b2f9b1d4c3b4c8a4584"],
+      "friends": ["60c72b2f9b1d4c3b4c8a4585", "60c72b2f9b1d4c3b4c8a4586"]
+    }
+  ]
+  

@@ -1,0 +1,23 @@
+[
+{
+    "company_name": "Tech Innovations Inc.",
+    "pitch": "Revolutionizing the tech industry with AI-driven solutions.",
+    "funding_needed": 500000,
+    "created_at": "2024-07-09T00:00:00Z"
+  },
+  {
+    "company_name": "Healthcare Solutions Ltd.",
+    "pitch": "Improving healthcare access through advanced telemedicine platforms.",
+    "funding_needed": 750000,
+    "idfront": "path/to/id/front.jpg",
+    "idback": "path/to/id/back.jpg",
+    "utilbill": "path/to/utility/bill.pdf",
+    "created_at": "2024-07-08T00:00:00Z"
+  },
+  {
+    "company_name": "Green Energy Initiatives LLC",
+    "pitch": "Leading the charge in sustainable energy solutions.",
+    "funding_needed": 1000000,
+    "created_at": "2024-07-07T00:00:00Z"
+  }
+  ]

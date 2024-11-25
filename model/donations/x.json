@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tech Startup Launch",
+    "description": "Launching a new tech startup aimed at revolutionizing e-commerce.",
+    "targetAmount": 50000,
+    "amountRaised": 25000,
+    "comments": [],
+    "status": "active",
+    "creator": "60eac2b92a0bc84c1837a7e1"
+  },
+  {
+    "title": "Community Health Center Expansion",
+    "description": "Expanding a community health center to provide more services to underprivileged areas.",
+    "targetAmount": 100000,
+    "amountRaised": 75000,
+    "comments": [],
+    "status": "active",
+    "creator": "60eac2b92a0bc84c1837a7e1"
+  },
+  {
+    "title": "Educational Scholarship Fund",
+    "description": "Establishing a fund to provide scholarships for low-income students pursuing higher education.",
+    "targetAmount": 30000,
+    "amountRaised": 15000,
+    "comments": [],
+    "status": "active",
+    "creator": "60eac2b92a0bc84c1837a7e1"
+  },
+  {
+    "title": "Environmental Conservation Project",
+    "description": "Funding a project to conserve local ecosystems and wildlife habitats.",
+    "targetAmount": 75000,
+    "amountRaised": 5000,
+    "comments": [],
+    "status": "active",
+    "creator": "60eac2b92a0bc84c1837a7e1"
+  },
+  {
+    "title": "Artistic Cultural Exchange Program",
+    "description": "Supporting an international artistic exchange program to foster cultural understanding.",
+    "targetAmount": 50000,
+    "amountRaised": 20000,
+    "comments": [],
+    "status": "active",
+    "creator": "60eac2b92a0bc84c1837a7e1"
+  }
+]
